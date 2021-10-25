@@ -126,5 +126,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+src/lancaster_layer.ipynb
+src/make_lancaster_embeddings.ipynb
+src/word_embeddings.ipynb
+
 # Pyre type checker
 .pyre/
