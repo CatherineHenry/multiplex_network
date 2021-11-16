@@ -9,6 +9,8 @@ The following table, inspired by Table 1 from [this paper](https://github.com/Fl
 
 ![name](https://github.com/FloCiaglia/multiplex_network/blob/main/data/Evaluation_phase1.png)
 
+Note: if a number in the table is in a different color, it means that it differs from what we were expecting. 
+
 *Phase 2*
 - Attach new word nodes to a network with small amount of initial words using preferential attachment. Compare the final result network with the one generated on the full vocabulary.   
 	
